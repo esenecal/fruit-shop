@@ -1,4 +1,4 @@
-# fuit shop
+# fruit shop
 A fruit juice cafe game.
 
 
